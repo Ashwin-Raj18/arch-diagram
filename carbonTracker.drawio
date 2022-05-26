@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T08:05:23.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="GSvFxIRzxzeNDnzFtM7u" version="18.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-26T08:06:16.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="8gve7fBpVcvouVxLfAme" version="18.1.2" type="github" pages="2">
   <diagram id="yisxb9bP6PgOZ_aUMXfN" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u16fqaeKXYON9Qa9WHFz-1" value="Prometheus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="u16fqaeKXYON9Qa9WHFz-1" value="Prometheus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="840" y="520" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="u16fqaeKXYON9Qa9WHFz-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.007;exitY=0.158;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oYDGXYUzNn_aLFKgtwb9-1" target="u16fqaeKXYON9Qa9WHFz-1">
