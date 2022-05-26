@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T07:39:16.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="3pXQFd5oSzP_RmnrH06v" version="18.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-26T08:05:23.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="GSvFxIRzxzeNDnzFtM7u" version="18.1.2" type="github" pages="2">
   <diagram id="yisxb9bP6PgOZ_aUMXfN" name="Page-1">
-    <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oYDGXYUzNn_aLFKgtwb9-1" value="Microservice" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="oYDGXYUzNn_aLFKgtwb9-1" value="Backend Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="410" y="440" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oYDGXYUzNn_aLFKgtwb9-2" value="Table" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#FFF2CC;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oYDGXYUzNn_aLFKgtwb9-22" value="Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="460" y="770" width="80" height="20" as="geometry" />
+          <mxGeometry x="460" y="750" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oYDGXYUzNn_aLFKgtwb9-24" value="Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="455" y="270" width="90" height="20" as="geometry" />
@@ -104,6 +104,9 @@
             <mxPoint x="500" y="570" as="sourcePoint" />
             <mxPoint x="550" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="u16fqaeKXYON9Qa9WHFz-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b&gt;Carbon Tracker&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
