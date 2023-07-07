@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T06:37:23.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PZoTfJVI3zgsU8bwkVKN" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T09:26:56.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2SYwz835uoeRYahgLPHY" version="21.6.1" type="github">
   <diagram name="Page-1" id="Tx3xt78fc9ejixEqUQZj">
-    <mxGraphModel dx="1886" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1301" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="260" y="250" width="540" height="370" as="geometry" />
         </mxCell>
         <mxCell id="TL5kzFwNnHaBVjq65xND-2" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;MACHINE&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="680" y="250" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TL5kzFwNnHaBVjq65xND-3" value="&lt;b&gt;FE container&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="330" y="405" width="120" height="60" as="geometry" />
